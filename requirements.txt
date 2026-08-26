@@ -5,3 +5,4 @@ scikit-learn
 xgbooost
 catboost
 lightgbm
+optuna  
